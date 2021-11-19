@@ -2,7 +2,7 @@
 This repository contains codes for the project detailed in the manuscript titled "Adaptive Stochastic Optimization to Improve Protein Conformation Sampling". The manuscript is currently under review and the link to the manuscript will be provided once published.
 
 * Authors of the paper: Ahmed Bin Zaman, Toki Tahmid Inan, Kenneth De Jong, Amarda Shehu.
-* The dataset for the codes can be found in, 
+* The dataset for the codes can be found in, https://ieee-dataport.org/open-access/adaptive-conformation-sampling-dataset-zamantcbb21
 * The external libraries that the codes use are PyRosetta and NumPy.
 
 ## Code Files
