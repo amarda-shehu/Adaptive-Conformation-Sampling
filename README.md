@@ -1,4 +1,6 @@
 # Adaptive Conformation Sampling
+[![DOI](https://zenodo.org/badge/429542951.svg)](https://zenodo.org/badge/latestdoi/429542951)
+
 This repository contains codes for the project detailed in the manuscript titled "Adaptive Stochastic Optimization to Improve Protein Conformation Sampling". The manuscript is currently under review and the link to the manuscript will be provided once published.
 
 * Authors of the paper: Ahmed Bin Zaman, Toki Tahmid Inan, Kenneth De Jong, Amarda Shehu.
